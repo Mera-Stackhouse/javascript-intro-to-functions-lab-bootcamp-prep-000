@@ -26,4 +26,5 @@ function sayHiToGrandma(string) {
   }
 }
 
-sayHiToGrandma ("Hello hOW arE You?")
+console.log(sayHiToGrandma ("Hello hOW arE You?"))
+
