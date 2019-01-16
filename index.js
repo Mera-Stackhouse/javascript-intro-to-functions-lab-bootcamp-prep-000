@@ -25,3 +25,5 @@ function sayHiToGrandma(string) {
     return "I can't tell if you're whispering or shouting."
   }
 }
+
+sayHiToGrandma ("Hello hOW arE You?")
