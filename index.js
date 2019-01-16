@@ -18,8 +18,10 @@ function sayHiToGrandma(string) {
   if (string.toUpperCase() === string) {
     return "YES INDEED!"
   } else if (string.toLowerCase() === string) {
-    console.log("I can't hear you!")
+    return "I can't hear you!"
   } else if (string = "I love you, Grandma.") {
-    consol
+    return "I love you, too."
+  } else {
+    return "I can't tell if you're whispering or shouting."
   }
 }
